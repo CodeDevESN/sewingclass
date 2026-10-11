@@ -217,7 +217,7 @@ ul {
 .card-inner-img {
     position: absolute;
     inset: 10px;
-    background: url('https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&q=80&w=600') center/cover;
+    background: url('hero.jpg') center/cover;
     border-radius: 24px;
     display: flex;
     flex-direction: column;
